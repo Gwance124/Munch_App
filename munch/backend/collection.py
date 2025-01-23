@@ -113,7 +113,7 @@ def main():
     API_URL = "https://api.yelp.com/v3/businesses/search"
     headers = {
         "accept": "application/json",
-        "authorization": "Bearer bglJtDy_ax-6v9usUw5b_kWSbEMxeCFC-juiAZVVPi3ha0iy2OSS6yzxML-DmRGWnQmT1OXT0MbKqikuKSm2yMKvGHcaZgeJPnrzrZL8r6KJamxBJJVHMM9m1--GZ3Yx"
+        "authorization": "Bearer API_KEY"
     }
     params_list = [
         {"location": "Manhattan", "latitude": 40.7831, "longitude": -73.9712, "radius": 4000, "term": "restaurants"},
