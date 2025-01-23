@@ -1,0 +1,110 @@
+{
+    "{'location': 'Manhattan', 'latitude': 40.7831, 'longitude': -73.9712, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 0}": {
+        "location": "Manhattan",
+        "latitude": 40.7831,
+        "longitude": -73.9712,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 0
+    },
+    "{'location': 'Manhattan', 'latitude': 40.7831, 'longitude': -73.9712, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 50}": {
+        "location": "Manhattan",
+        "latitude": 40.7831,
+        "longitude": -73.9712,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 50
+    },
+    "{'location': 'Manhattan', 'latitude': 40.7831, 'longitude': -73.9712, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 100}": {
+        "location": "Manhattan",
+        "latitude": 40.7831,
+        "longitude": -73.9712,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 100
+    },
+    "{'location': 'Manhattan', 'latitude': 40.7831, 'longitude': -73.9712, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 150}": {
+        "location": "Manhattan",
+        "latitude": 40.7831,
+        "longitude": -73.9712,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 150
+    },
+    "{'location': 'Upper Manhattan', 'latitude': 40.861, 'longitude': -73.9375, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 0}": {
+        "location": "Upper Manhattan",
+        "latitude": 40.861,
+        "longitude": -73.9375,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 0
+    },
+    "{'location': 'Upper Manhattan', 'latitude': 40.861, 'longitude': -73.9375, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 50}": {
+        "location": "Upper Manhattan",
+        "latitude": 40.861,
+        "longitude": -73.9375,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 50
+    },
+    "{'location': 'Upper Manhattan', 'latitude': 40.861, 'longitude': -73.9375, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 100}": {
+        "location": "Upper Manhattan",
+        "latitude": 40.861,
+        "longitude": -73.9375,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 100
+    },
+    "{'location': 'Upper Manhattan', 'latitude': 40.861, 'longitude': -73.9375, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 150}": {
+        "location": "Upper Manhattan",
+        "latitude": 40.861,
+        "longitude": -73.9375,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 150
+    },
+    "{'location': 'Lower Manhattan', 'latitude': 40.7128, 'longitude': -74.006, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 0}": {
+        "location": "Lower Manhattan",
+        "latitude": 40.7128,
+        "longitude": -74.006,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 0
+    },
+    "{'location': 'Lower Manhattan', 'latitude': 40.7128, 'longitude': -74.006, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 50}": {
+        "location": "Lower Manhattan",
+        "latitude": 40.7128,
+        "longitude": -74.006,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 50
+    },
+    "{'location': 'Lower Manhattan', 'latitude': 40.7128, 'longitude': -74.006, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 100}": {
+        "location": "Lower Manhattan",
+        "latitude": 40.7128,
+        "longitude": -74.006,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 100
+    },
+    "{'location': 'Lower Manhattan', 'latitude': 40.7128, 'longitude': -74.006, 'radius': 4000, 'term': 'restaurants', 'limit': 50, 'offset': 150}": {
+        "location": "Lower Manhattan",
+        "latitude": 40.7128,
+        "longitude": -74.006,
+        "radius": 4000,
+        "term": "restaurants",
+        "limit": 50,
+        "offset": 150
+    }
+}
